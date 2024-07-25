@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0
+    background-color: 
+    color: black;    
+}
+
+header {
+    background-color: chartreuse;
+    color: firebrick;
+    padding: 20px
+    text-aling: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    box-shadow: 0 2px 4px ;
+}
+
+h1,
+h2 {
+    margin: 0;
+}
+
+h2 {
+    color: coral;
+}
+
+footer {
+    background-color: gold;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%
+    bottom:0%;
+}
