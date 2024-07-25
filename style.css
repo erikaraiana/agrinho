@@ -1,16 +1,16 @@
 body{
     font-family: Arial, sans-serif;
     margin: 0;
-    padding: 0
-    background-color: 
+    padding: 0;
+    background-color: blue;
     color: black;    
 }
 
 header {
     background-color: chartreuse;
     color: firebrick;
-    padding: 20px
-    text-aling: center;
+    padding: 20px;
+    text-align: center;
 }
 
 main {
@@ -40,6 +40,6 @@ footer {
     text-align: center;
     padding: 10px;
     position: fixed;
-    width: 100%
+    width: 100%;
     bottom:0%;
 }
